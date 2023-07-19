@@ -1,0 +1,64 @@
+body{background-image:url(Image/gackground.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: auto;
+    padding: 30px;
+    color:red;
+    display: flex;
+
+
+
+}
+nav{
+   float: left;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    width: 40px;
+    font-size: 30px;
+    }
+nav ul  li{
+    list-style:none ;    
+
+}
+nav ul li a{
+    color:red;
+    text-decoration: none;
+}
+
+ 
+
+
+nav li a:visited{
+    background-color:aliceblue;
+}
+
+
+nav li a:hover
+{
+    background-color:black:
+
+}
+nav li a:active{
+    background-color:goldenrod;
+}
+content{
+    
+}
+
+h1,h2,h3{font-family:'Times New Roman', Times, serif;
+    border-left-color: brown;
+}
+article{
+  margin-top: -100px;
+    width: 70%;
+    height: 20%;
+    position: relative;
+    padding: 50px;
+    float: right;
+    border-left: 6px solid red;
+    border-width:4px;
+ 
+ 
+   
+    
+}
